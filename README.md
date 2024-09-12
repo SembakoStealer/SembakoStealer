@@ -1,4 +1,4 @@
-Hi, I am Joyada Okomoto
+Hi, I am Joyada Okomoto,
 I love Breads :)
 <!---
 SembakoStealer/SembakoStealer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
